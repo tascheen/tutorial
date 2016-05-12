@@ -1,2 +1,3 @@
 # tutorial
-Java Script Udacity tutorual
+Java Script Udacity tutorial
+I am beginner web developer.
